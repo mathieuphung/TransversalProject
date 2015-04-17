@@ -1,0 +1,14 @@
+###########
+# Composer #
+###########
+*.sql
+*.log
+*.DS_Store
+Thumbs.db
+
+*.idea/
+*.idea/scopes/
+
+/vendor/
+composer.lock
+composer.phar
